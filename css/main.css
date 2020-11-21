@@ -1,0 +1,60 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+body {
+    font-family: "Roboto", "Helvetica", sans-serif;
+    font-size-adjust: none;
+    background: #000;
+    color: #E8E8E8;
+    margin: 0;
+}
+
+h1 {
+  font-family: "Playfair Display", "Big Caslon", serif;
+  font-size: 5rem;
+  color: #fff;
+}
+
+#content {
+  padding: 1rem;
+  max-width: 100%;
+  margin: 0;
+}
+
+#caption {
+  color: #696969;
+  max-width: 100%;
+}
+
+#catalina {
+  padding: 1rem 0rem 0rem 0rem;
+}
+
+#malamente {
+  padding: 1rem 0rem 0rem 0rem;
+}
+
+#juroQue {
+  padding: 1rem 0rem 0rem 0rem;
+}
+
+#yoTi {
+  padding: 1rem 0rem 0rem 0rem;
+}
+
+.albums {
+  text-align: center;
+  padding: 1rem;
+}
+
+footer {
+  background: #605F63;
+  padding: 2rem;
+  text-align: center;
+}
